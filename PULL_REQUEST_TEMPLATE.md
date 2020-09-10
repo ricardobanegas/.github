@@ -1,8 +1,9 @@
-## Description Problem, solution or enhancement
-_Describe the purpose of the pull request_
-_Mention other relevant changes & include screenshots if they could help the review_
+## Description
+- _Purpose of the pull request_
+- _Relevant changes_
+- _Include screenshots to help the review_
 
-<img src="https://hitta.myjetbrains.com/youtrack/static/favicon.ico" alt="YouTrack" width="15" height="15"> [YOUTRACK_SUBJECT](<YOUTRACK_URL>)
+<img src="https://hitta.myjetbrains.com/youtrack/static/favicon.ico" alt="YouTrack" width="20" height="20"> [YOUTRACK_SUBJECT](<YOUTRACK_URL>)
 
 ## Deploy notes
-_Examples: Environment variables, scripts or changes in dependencies_
+_Examples: Environment variables, Scripts, Changes in dependencies_
